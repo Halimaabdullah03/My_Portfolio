@@ -1,3 +1,33 @@
-.letterspace{
-    letter-spacing: 0.1em;
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+
+body {
+    background-color: #d5ded5;
 }
+
+.navbar {
+    background-color: #bec7bd;
+}
+
+p {
+    font-family: "Chocolate Classical Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.titles {
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.navbar-brand {
+    font-family: "Rubik Mono One", monospace;
+    font-weight: 500;
+     font-size: 30px;;
+    font-style: normal;
+  
+}
+
